@@ -1,0 +1,1 @@
+export default {"run":{"default":"deno run -A ./buildTheme.ts"}}

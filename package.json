@@ -1,0 +1,21 @@
+{
+    "name": "monokai-dark",
+    "displayName": "Monokai Dark",
+    "description": "VSCode's Monokai mixed with VSCode's Dark theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokai-dark-color-theme.json"
+            }
+        ]
+    }
+}
